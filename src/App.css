@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+input {
+  margin-right: 10px;
+}
+.subject {
+  padding: 10px 15px;
+  font-size: 16px;
+  border-radius: 7px;
+}
+.hour {
+  border-radius: 7px;
+  outline: none;
+  width: 45px;
+  padding: 10px 12px;
+  font-size: 12px;
+}
